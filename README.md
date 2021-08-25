@@ -10,4 +10,4 @@ The example program reads the analog signal output from the ```S``` pin on the m
 ![](./wiring_diagram_bb.png)
 
 ## Additional information
-  For more information about the Whadda WPSE352 photosensitive sensor module, check the manual available at [whadda.com](https://whadda.com)
+  For more information about the Whadda WPSE352 photosensitive sensor module, check the manual available at [whadda.com](https://whadda.com/product/WPSE355).
