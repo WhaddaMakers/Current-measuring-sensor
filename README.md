@@ -1,4 +1,4 @@
-# WPSE355 current sensor module
+# Current sensor module
 This example shows how to measure the output of the current sensor and calculate the corresponding AC current with an Arduino® compatible board.
 
 The example program reads the analog signal output from the ```S``` pin on the module, calculates the corresponding current, and prints the result in the serial monitor.
